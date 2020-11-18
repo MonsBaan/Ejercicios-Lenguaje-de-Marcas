@@ -1,0 +1,64 @@
+p{
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  font-family: 'Jura', sans-serif;  font weight: 100;
+  color: grey;
+}
+h2{
+  margin-top: 3%;
+  margin-right:5%;
+  margin-left: 5%;
+  padding: 5px;
+
+  font-family: 'Jura', sans-serif;  font weight: 100;
+  text-align: center;
+  color: grey;
+
+  border-top: #563B29 solid 5px;
+  border-bottom: #816655 solid 3px;
+  border-radius: 20px;
+}
+h3{
+  font-family: 'Jura', sans-serif;  font weight: 100;
+  text-align: center;
+  color: grey;
+
+  border-top: #f676275c solid 5px;
+  border-radius: 20px;
+}
+h4{
+  font-family: 'Jura', sans-serif;
+  text-align: center;
+  font-size: 18px;
+  color: grey;
+
+  border-bottom: #816655 solid 5px;
+  border-radius: 20px;
+
+  height: 50px;
+  width: 30%;
+  margin-bottom: 5%;
+  margin-top: -3%;
+  margin-left: 1%;
+}
+#galeria{
+  margin-top: 4%;
+  margin-left: 100px;
+
+  width: 50%;
+
+  border-radius: 20px;
+  position: relative;
+  left: 20%;
+}
+.imgGaleria{
+  margin: 25px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-bottom: 0%;
+}
+.floatclear{
+  clear: left;
+}

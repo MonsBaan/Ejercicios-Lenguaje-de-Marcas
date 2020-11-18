@@ -1,0 +1,140 @@
+*{
+  padding: 0px ;
+  margin: 0px ;
+}
+#menu{
+  overflow: hidden;
+  background-color: #99ff99;
+  width: auto;
+  border: green solid 4px;
+  border-radius: 20px;
+}
+#menu ul{
+  list-style-type: none;
+}
+#menu li{
+  float: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 200;
+}
+#menu li a{
+  display: inline-block;
+  color: Black;
+  text-align: left;
+  padding: 15px 15px;
+  text-decoration: none;
+}
+#menu li a:hover{
+  background-color: #00b300;
+  position: relative;
+  animation: animacion linear 2s infinite alternate;
+}
+#menu .active{
+  background-color: #006600;
+}
+#menu
+{
+position: relative;
+left: 270px;
+top: 38px;
+z-index: 5;
+}
+#menu a{
+      text-decoration:none;
+      color:inherit;
+      font-size:14px;
+      }
+
+
+#menu li{
+      display:inline-block;
+      width:150px;
+      height:30px;
+      padding:5px 10px;
+      background-color:#000;
+      border:1px solid #000;
+      text-align:center;
+      color:#fff;
+      position:relative;
+}
+
+#menu li:hover{
+      background-color:#fff;
+      color:#000;
+      }
+
+#menu li>ul{
+      display:none;
+      }
+
+#menu li:hover>ul{
+      display:block;
+      position:absolute;
+      top:30px;
+      left:0px;
+}
+
+@keyframes animacion {
+  0%   {background-color:#00b300}
+  50%  {background-color:#80ff80}
+  100% {background-color:#006600}
+}
+/*#menu li ul li{
+  display: none;
+  position: absolute;
+  position: fixed;
+  background-color: #80ff80;
+}
+#menu li:hover ul li{
+  display: block;
+}
+#menu li ul li a{
+  width: 110px;
+}
+#menu li ul li:nth-child(2){
+  margin-top: 45px;
+}
+#menu li ul li:nth-child(3){
+  margin-top: 90px;
+}*/
+#tituloWeb{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 350;
+}
+#pie{
+  width: 100%;
+  height: auto;
+}
+#rrss{
+  margin-top: 50px;
+  border-top-style: groove;
+  border-color: #80ff80;
+  border-width: 10px;
+  border-radius: 15px;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+.iconosSociales{
+  width: 26px;
+  height: 23px;
+  margin: 5px;
+}
+body {
+  margin: 50px;
+
+  background: radial-gradient(#e6ffe6 ,#99ff99);
+  background-repeat: no-repeat;
+}
+h1{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+.enlaceMenu{
+  float: right;
+  position: relative;
+  margin: 15px;
+  color: Black;
+}

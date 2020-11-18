@@ -1,0 +1,77 @@
+h2{
+  margin-top: 3%;
+  margin-right:5%;
+  margin-left: 5%;
+  padding: 5px;
+
+  font-family: 'Jura', sans-serif;  font weight: 100;
+  text-align: center;
+  color: grey;
+
+  border-top: #563B29 solid 5px;
+  border-bottom: #816655 solid 3px;
+  border-radius: 20px;
+}
+
+#noticia{
+  margin-top: 25px;
+  margin-left: 100px;
+
+  width: 24%;
+
+  float: left;
+
+  border-top: #f676275c solid 5px;
+  border-radius: 20px;
+
+}
+#FechasGira{
+  margin-top: 25px;
+  margin-left: 100px;
+  margin-bottom: -19px;
+
+  width: 39%;
+  float: left;
+
+  border-top: #f676275c solid 5px;
+  border-radius: 20px;
+}
+#seccion{
+  margin-top: 20px;
+}
+#album{
+  margin-left: 7%;
+  margin-right: 2%;
+
+  width: 23%;
+
+  float: left;
+}
+#tablaDiscos{
+  margin-top: 46px;
+}
+.floatclear{
+  clear: left;
+}
+.tabla, th, td{
+  margin:3%;
+  width: 90%;
+  margin-left: 5%;
+}
+.tabla{
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 90%;
+  background-color: #563B29;
+  font-family: 'Jura', sans-serif;  font weight: 100;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #563B29;
+}
+ tr:nth-child(even) {background-color: #816655;}
+
+ th{
+   border: 2px solid Black
+ }

@@ -1,0 +1,14 @@
+th, td{
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+th{
+  text-align: center;
+  background-color: 722424;
+  color: Black;
+}
+td>video{
+  width: 320px;
+  height: 240px;
+}

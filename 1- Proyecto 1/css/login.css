@@ -1,0 +1,60 @@
+#formulario{
+  margin: 10px;
+  position: relative;
+  left: 450px;
+  top: 45px;
+  height: 165px;
+  width: 250px;
+  border: 10px double black;
+  padding: 70px;
+  padding-top: 30px;
+  padding-bottom: 120px;
+}
+#cuerpo{
+  height: 400px;
+}
+#user{
+  left: 25px;
+  position: relative;
+}
+#password{
+  left: 4px;
+  position: relative;
+  margin-top: 10px;
+}
+#nombre{
+  left: 24px;
+  position: relative;
+  margin-top: 10px;
+}
+#apellido{
+  left: 20px;
+  position: relative;
+  margin-top: 10px;
+}
+#apellido2{
+  left: 9px;
+  position: relative;
+  margin-top: 10px;
+}
+#direccion{
+  left: 14px;
+  position: relative;
+  margin-top: 10px;
+}
+#sexo{
+  left: 45px;
+  position: relative;
+  margin-top: 10px;
+}
+#intereses{
+  left: 20px;
+  position: relative;
+  margin-top: 10px;
+}
+#enviar{
+  margin-top: 6px;
+}
+input{
+  margin-top: 6px;
+}

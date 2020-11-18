@@ -1,0 +1,23 @@
+.imgGaleria{
+  height: 150px;
+  margin-left:4%;
+  width: 15%;
+  border: solid #563B29 3px;
+  border-radius: 30px;
+  z-index: 1;
+}
+.imgGaleria:hover{
+  transition: 2s;
+  position: relative;
+  transform:scale(2);
+  -webkit-transform:scale(2);
+  -moz-transform:scale(2);
+  z-index: 2;
+}
+.floatclear{
+  clear: left;
+}
+.galeria{
+  margin-top: 65px;
+  position: ;
+}
