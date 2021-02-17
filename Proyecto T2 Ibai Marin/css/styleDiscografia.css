@@ -1,0 +1,76 @@
+.floatclear{
+  clear: left;
+}
+h2{
+  margin-top: 3%;
+  margin-right:5%;
+  margin-left: 5%;
+  padding: 5px;
+
+  font-family: 'Jura', sans-serif;  font weight: 100;
+  text-align: center;
+  color: grey;
+
+  border-top: #563B29 solid 5px;
+  border-bottom: #816655 solid 3px;
+  border-radius: 20px;
+}
+h3{
+  margin-left: -12%;
+  padding: 5px;
+
+  font-family: 'Jura', sans-serif;  font weight: 100;
+  text-align: center;
+  color: grey;
+
+}
+h4{
+  margin-bottom: -2px;
+  padding-top: 6px;
+
+  font-family: 'Jura', sans-serif;
+  text-align: center;
+  font-size: 18px;
+  color: grey;
+
+  border-bottom: #816655 solid 3px;
+  border-radius: 20px;
+
+  height: 29px;
+}
+a {
+  color: #BF9A84;
+  text-decoration: none;
+  font-size: 21px;
+}
+audio{
+  margin:5px;
+}
+#album{
+  margin-left: 7%;
+  margin-right: 2%;
+
+  width: 23%;
+
+  float: left;
+}
+#imagenAlbum{
+  margin-top: 25px;
+
+  height: 300px;
+  width: 300px;
+}
+#enlaceSpotify{
+  margin-left: 17%;
+  margin-top: 5px;
+
+  border-top: #0c950075 solid 5px;
+  border-bottom: #0c9500 solid 3px;
+  margin-right: 27%;
+}
+.linkAlbum{
+  margin-top: 15px;
+
+  color: green;
+  font-size: 17px;
+}

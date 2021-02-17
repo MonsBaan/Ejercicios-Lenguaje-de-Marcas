@@ -1,0 +1,176 @@
+p{
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  font-family: 'Jura', sans-serif;  font weight: 100;
+  color: grey;
+}
+h2{
+  margin-top: 3%;
+  margin-right:5%;
+  margin-left: 5%;
+  padding: 5px;
+
+  font-family: 'Jura', sans-serif;  font weight: 100;
+  text-align: center;
+  color: grey;
+
+  border-top: #563B29 solid 5px;
+  border-bottom: #816655 solid 3px;
+  border-radius: 20px;
+}
+h3{
+  margin-right:5%;
+  margin-left: -8%;
+  padding: 5px;
+
+  font-family: 'Jura', sans-serif;  font weight: 100;
+  text-align: center;
+  color: grey;
+
+}
+h4{
+  margin-bottom: -2px;
+  padding-top: 6px;
+
+  font-family: 'Jura', sans-serif;
+  text-align: center;
+  font-size: 18px;
+  color: grey;
+
+  border-bottom: #816655 solid 3px;
+  border-radius: 20px;
+
+  height: 29px;
+}
+h5{
+  margin-bottom: -32px;
+  padding: 3px;
+  margin-left: 331px;
+
+  width: 175px;
+
+  font-family: 'Jura', sans-serif;
+  text-align: center;
+  font-size: 17px;
+  color: grey;
+
+  border-top: #0c950075 solid 5px;
+  border-bottom: #0c9500 solid 3px;
+  border-radius: 20px;
+
+  position: relative;
+  top: -88px;
+}
+a {
+  color: #BF9A84;
+  text-decoration: none;
+  font-size: 21px;
+}
+#noticia{
+  margin-top: 25px;
+  margin-left: 100px;
+
+  width: 24%;
+
+  float: left;
+
+  border-top: #f676275c solid 5px;
+  border-radius: 20px;
+
+}
+#FechasGira{
+  margin-top: 25px;
+  margin-left: 100px;
+  margin-bottom: -19px;
+
+  width: 39%;
+  float: left;
+
+  border-top: #f676275c solid 5px;
+  border-radius: 20px;
+}
+#seccion{
+  margin-top: 20px;
+}
+#album{
+  margin-left: 7%;
+  margin-right: 2%;
+
+  width: 23%;
+
+  float: left;
+}
+#imagenAlbum{
+  margin-top: 25px;
+
+  height: 300px;
+  width: 300px;
+}
+#enlaceSpotify{
+  margin-left: 12%;
+  margin-top: 5px;
+
+  border-top: #0c950075 solid 5px;
+  border-bottom: #0c9500 solid 3px;
+  margin-right: 25%;
+}
+#ultimasnoticias{
+  margin-top: 46px;
+}
+.noticiaExph3{
+  margin-left:28%;
+  padding: 5px;
+
+  font-family: 'Jura', sans-serif;  font weight: 100;
+  text-align: center;
+  color: grey;
+}
+.floatclear{
+  clear: left;
+}
+.linkAlbum{
+  margin-top: 15px;
+
+  color: green;
+  font-size: 17px;
+}
+.TituloGira{
+  color: #BF9A84;
+  font-size: 20px;
+  text-align: center;
+}
+.fechaGira{
+  margin-left: 334px;
+
+  width: 130px;
+
+  padding: 4px;
+  top: -57px;
+  position: relative;
+  border-top: none;
+  border-left: #816655 solid 3px;
+  border-radius: 9px;
+  height: 18px;
+  font-size: 15px;
+}
+.compraTicket{
+  color: Green;
+  font-size: 16px;
+}
+.leerMas{
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-bottom: 3px;
+
+  color: green;
+  font-size: 18px;
+  text-align: center;
+
+
+  border-top: #0c950075 solid 5px;
+  border-bottom: #0c9500 solid 3px;
+
+  border-radius: 25px;
+  margin-left: 37%;
+}
